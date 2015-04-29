@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\bin\Debug\QuizShow.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\bin\Debug\QuizShow.exe
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\bin\Debug\QuizShow.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.exe
+c:\users\yonca\documents\visual studio 2013\Projects\QuizShow\QuizShow\obj\Debug\QuizShow.pdb
